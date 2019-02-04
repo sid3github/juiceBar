@@ -1,0 +1,34 @@
+.brand-logo {
+    margin-top: 7px;
+}
+
+.brand-logo.center {
+    font-family: 'Gloria Hallelujah', cursive;
+    /* font-weight: bold; */
+}
+
+.sidenav:hover {
+    background-color: orange;
+}
+
+.caption {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.black-text {
+    font-size: 65px;
+}
+
+.dark {
+    font-size: 38px;
+}
+
+
+.card-title {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+}
+
+.card-action {
+    font-family: 'Gloria Hallelujah', cursive;
+}
