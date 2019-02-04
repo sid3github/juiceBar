@@ -6,3 +6,13 @@ M.Sidenav.init(sideNav, {});
 $(document).ready(function () {
     $('.slider').slider({ indicators: false, duration: 500, height: 800 });
 });
+
+//parallax
+$(document).ready(function(){
+    $('.parallax').parallax();
+});
+
+$(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
+       
